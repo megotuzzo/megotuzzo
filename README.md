@@ -1,7 +1,7 @@
 - My name is Eduarda Gotuzzo.
 - B.Sc. in Computer Science on PUCRS.
-- Estimated Graduation: 2026/2.
-- Currently learning Java, Python and C.
+- Estimated Graduation: 2027/1.
+- Java, C#, Python.
 
 <!---
 megotuzzo/megotuzzo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
